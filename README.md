@@ -1,8 +1,6 @@
 # my-git-project
 
 
-# My Git Learning Project
-
 **Author:** Jagdish Prajapati  
 **Last Updated:** Friday, Feb 27, 2026  
 
